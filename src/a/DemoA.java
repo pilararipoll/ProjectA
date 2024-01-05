@@ -17,4 +17,10 @@ public class DemoA {
 		System.out.println(a + b);
 		
 	}
+//coming from GitHub
+	
+	public static void add (int a, int b) {
+		
+		System.out.println(a + b);
+	
 }
